@@ -35,6 +35,12 @@ header a {
     text-decoration: none;
     color: inherit;
 }
+.myface {
+    border-radius: 50%;
+    padding-top: 20px;
+    margin-bottom: -20px;
+    position: relative;
+}
 
 h1 {
     font-family: 'Oswald', sans-serif;
@@ -89,7 +95,13 @@ main {
     flex: 1 0 auto;
     margin-top: 47px;
 }
-
+.myface {
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    object-fit: contain;
+    display: flex;
+}
 /* Footer */
 footer {
     background-color: orange;
@@ -122,6 +134,12 @@ footer {
         font-size: 280%;
         line-height: 75px;
         margin: 0 0.5rem;
+    }
+    .myface {
+        position: relative;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     /* Main content */
