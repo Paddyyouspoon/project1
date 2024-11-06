@@ -12,16 +12,12 @@ body {
     /*genric style*/
     color: #3a3a3a;
 }
-
+.homeimage
 /*header*/
 header {
     background-color: rgb(3, 27, 149);
 }
-/*main content*/
-main {
-    background-color: brown;
-    flex: 1 0 auto;
-}
+
 /*footer*/
 footer {
     background-color: lightblue;
