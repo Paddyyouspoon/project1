@@ -12,7 +12,10 @@ body {
     /*genric style*/
     color: #3a3a3a;
 }
-.homeimage
+img {
+    max-width: 100%;
+    height: auto;
+}
 /*header*/
 header {
     background-color: rgb(3, 27, 149);
