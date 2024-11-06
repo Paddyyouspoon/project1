@@ -16,6 +16,10 @@ img {
     max-width: 100%;
     height: auto;
 }
+nav > a:hover {
+    color:red;
+    text-align: right;
+}
 /*header*/
 header {
     background-color: rgb(3, 27, 149);
