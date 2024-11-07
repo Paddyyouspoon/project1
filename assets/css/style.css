@@ -95,12 +95,12 @@ main {
     flex: 1 0 auto;
     margin-top: 47px;
 }
-.myface {
-    width: 20px;
-    height: 20px;
-    background-repeat: no-repeat;
-    object-fit: contain;
-    display: flex;
+.backgroundimg {
+    border-radius: 8px;
+    width: 96%;
+    margin: 2%;
+    overflow-clip-margin: content box;
+    overflow: clip;
 }
 /* Footer */
 footer {
@@ -135,11 +135,8 @@ footer {
         line-height: 75px;
         margin: 0 0.5rem;
     }
-    .myface {
-        position: relative;
-        width: 50%;
-        margin-left: auto;
-        margin-right: auto;
+    .backgroundimg {
+        width: fit-content;
     }
 
     /* Main content */
