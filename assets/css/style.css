@@ -99,9 +99,13 @@ main {
     border-radius: 8px;
     width: 96%;
     margin: 2%;
-    overflow-clip-margin: content box;
     overflow: clip;
 }
+img {
+    border-radius: 8px;
+    width:96%;
+}
+
 /* Footer */
 footer {
     background-color: orange;
