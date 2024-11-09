@@ -93,7 +93,7 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
-.checkbox {
+#nav-toggle {
     display: none;
 }
 
