@@ -17,7 +17,9 @@ body {
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;
 }
-
+.fixed-top {
+    position: fixed;
+}
 /* Header */
 header {
     background-color: #ffffff;
@@ -47,6 +49,11 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
+
+}
+div h1 {
+    text-align: center;
+    text-transform: capitalize;
 }
 
 #menu {
@@ -109,7 +116,7 @@ img {
 
 /* Footer */
 footer {
-    background-color: orange;
+    background-color: rgb(60, 75, 212);
 }
 
 /* Media query: tablets and larger (768px and up) */
