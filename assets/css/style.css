@@ -116,7 +116,29 @@ img {
 
 /* Footer */
 footer {
-    background-color: rgb(60, 75, 212);
+        padding: 1em;
+        text-align: center;
+        width: 100%;
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        z-index: 3;
+        background-color: rgb(60, 75, 212);
+}
+
+footer > span {
+	color: silver;
+}
+
+footer > a {
+	color: beige;
+	text-decoration: none;
+	padding: 0 15px;
+	font-size: 0.8rem;
+}
+
+footer > p {
+	color: silver;
 }
 
 /* Media query: tablets and larger (768px and up) */
