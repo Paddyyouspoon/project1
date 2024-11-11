@@ -37,8 +37,9 @@ header a {
     text-decoration: none;
     color: inherit;
 }
-.browse {
+#browse {
     position: relative;
+    top : 20px;
 }
 .page-header {
     height: 50vh;	
@@ -63,6 +64,18 @@ header a {
 div h1 {
     text-align: center;
     text-transform: capitalize;
+}
+.text-center {
+    text-align: center;
+}
+.page-sub-header {
+    position: relative;
+    padding-top: 11rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    font-size: 1.25rem;
+    background-size: cover !important;
+    background-position: center !important;
 }
 
 #menu {
@@ -217,6 +230,10 @@ footer > p {
         line-height: 75px;
         margin: 0 0.5rem;
     }
+    .toggle {
+        margin-right: 12rem;
+    }
+
     .backgroundimg {
         width: fit-content;
     }
