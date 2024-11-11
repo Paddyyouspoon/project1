@@ -68,15 +68,6 @@ div h1 {
 .text-center {
     text-align: center;
 }
-.page-sub-header {
-    position: relative;
-    padding-top: 11rem;
-    padding-bottom: 6rem;
-    text-align: center;
-    font-size: 1.25rem;
-    background-size: cover !important;
-    background-position: center !important;
-}
 
 #menu {
     font-size: 110%;
