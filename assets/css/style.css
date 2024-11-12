@@ -120,9 +120,7 @@ nav {
     cursor: pointer;
     border-radius: 2px;
     background-color: #fff;
-   
-
-
+}
 /* Main content */
 main {
     
@@ -146,7 +144,7 @@ footer {
         bottom: 0;
         right: 0;
         z-index: 3;
-        background-color: rgb(60, 75, 212);
+        background-color: rgb(255, 255, 255);
 }
 
 footer > span {
@@ -160,8 +158,17 @@ footer > a {
 	font-size: 0.8rem;
 }
 
-footer > p {
-	color: silver;
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
 }
 
 /* Media query: tablets and larger (768px and up) */
