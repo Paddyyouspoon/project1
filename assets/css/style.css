@@ -138,6 +138,21 @@ main {
     background: url("../images/website images/background\ images.jpg") no-repeat center center/cover;
     position: relative;
 }
+/*information table*/
+table {
+    width: 70%;
+}
+tr {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+tr, th, td {
+    text-align: center;
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px; 
+}
 #cover-text {
     background-color: rgba(55, 191, 233, 0.7);
     font-size: 130%;
