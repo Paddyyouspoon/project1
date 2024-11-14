@@ -148,6 +148,15 @@ main {
     padding-top: 20px;
     padding-left: 10px;
 }
+/*gally page*/
+#photos img {
+    width: 100%;
+    line-height: 1em;
+
+}
+#photos {
+    line-height: 0;
+}
 /* Footer */
 footer {
         padding: 1em;
