@@ -24,8 +24,14 @@ h1, h2 ,h3 {
     letter-spacing: 2px;
     color: #252525;
 }
+#name {
+    text-align: center;
+    text-decoration: underline;
+}
+
 .fixed-top {
     position: fixed;
+    
 }
 /* Header */
 header {
