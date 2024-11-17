@@ -201,6 +201,7 @@ footer {
         text-align: center;
         width: 100%;
         position: sticky;
+        position: relative;
         bottom: 0;
         right: 0;
         z-index: -1;
@@ -228,7 +229,7 @@ footer > a {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #3b3a92;
 }
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
