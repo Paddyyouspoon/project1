@@ -23,28 +23,14 @@ h1, h2 ,h3 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
-}
-.entry-content {
-    margin-top: 5px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-}
-.row {
-    display: flex;
-    flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
-}
-p {
-    margin: 1em 0;
-}
 
-h1.entry-level {
-    font-size: 1.00rem;
-    border-bottom: 1px solid #eaecef;
+}
+.bold {
     text-align: center;
-    text-decoration: underline;
+    font-weight: bold;
+}
+header > h1 {
+    text-align: center;
 }
 
 .fixed-top {
@@ -107,7 +93,11 @@ div h1 {
 #menu > li {
     margin-bottom: 1em;
 }
-
+article > p {
+    margin-right: 60px;
+    margin-left: 60px;
+    margin-top: 0.5px;
+}
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
@@ -304,6 +294,10 @@ footer > a {
     #form {
         margin-top: 30px;
     }
+    article > p {
+        margin-left: 80px;
+        margin-right: 80px;
+    }
     
 }
 
@@ -316,5 +310,8 @@ footer > a {
     #photos {
         column-count: 4;
     }
-    
+    article > p {
+        margin-left: 120px;
+        margin-right: 120px;
+    }
 }
