@@ -1,6 +1,6 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&display=swap');
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
@@ -24,7 +24,25 @@ h1, h2 ,h3 {
     letter-spacing: 2px;
     color: #252525;
 }
-#name {
+.entry-content {
+    margin-top: 5px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+p {
+    margin: 1em 0;
+}
+
+h1.entry-level {
+    font-size: 1.00rem;
+    border-bottom: 1px solid #eaecef;
     text-align: center;
     text-decoration: underline;
 }
@@ -65,10 +83,11 @@ header a {
 }
 
 #logo {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Edu AU VIC WA NT Pre', cursive;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
+    font-weight: 400;
 
 }
 div h1 {
@@ -121,11 +140,12 @@ nav {
 }
 /* Nav toggle */
 .toggle {
-    position: absolute;
+    position: fixed;
     height: 30px;
     width: 30px;
     top: 20px;
-    right: 5px;
+    bottom: 15px;
+    right: 15px;
     z-index: 1;
     cursor: pointer;
     border-radius: 2px;
@@ -181,6 +201,10 @@ td {
 #photos {
     line-height: 0;
 }
+#form {
+    color:#020000;
+    text-align: center;
+}
 /* Footer */
 footer {
         padding: 1em;
@@ -222,6 +246,10 @@ footer > a {
         column-count: 2;
         column-gap: 0;
     }
+    #form {
+        margin-top: 30px;
+    }
+    
 }
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
@@ -273,6 +301,10 @@ footer > a {
     #photos {
         column-count: 3;
     }
+    #form {
+        margin-top: 30px;
+    }
+    
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -284,4 +316,5 @@ footer > a {
     #photos {
         column-count: 4;
     }
+    
 }
