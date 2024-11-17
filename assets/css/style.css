@@ -133,31 +133,33 @@ nav {
 }
 /* Main content */
 main {
-    
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 47px;
+}
+tr {
+    height: 150px;
+}
+th {
+    border: 1px solid black;
+    min-width: 70px;
+    text-align: left;
+}
+td {
+    border: 1px solid black;
+}
+.table-header {
+    height: 40px;
+    text-align: center;
+}
+.wide-top {
+    width: 300px;
 }
 #background {
     height: 600px;
     width: 100%;
     background: url("../images/website images/background\ images.jpg") no-repeat center center/cover;
     position: relative;
-}
-/*information table*/
-table {
-    width: 70%;
-}
-tr {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-}
-tr, th, td {
-    text-align: center;
-}
-th, td {
-    border: 1px solid black;
-    padding: 5px; 
 }
 #cover-text {
     background-color: rgba(55, 191, 233, 0.7);
