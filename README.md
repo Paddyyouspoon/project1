@@ -17,7 +17,9 @@
 [a link to information](informaiton.html)
 
 ![background image]("../images/website images/background\ images.jpg")
-![three bars icon]("fa-solid fa-bars")
+
+
+![three bars logo](i class="fa-solid fa-bars")
 ---
 icon logo
 ![alt text](assets/favicon/favicon.ico)
