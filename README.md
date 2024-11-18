@@ -1,3 +1,23 @@
-This is my website for project 1.
-My website is on my photography that i do on the side when out with the family or on my own.
-The idea for my website is for people to see what i have done and and why i am intrested in photography.
+# Photography by Nicholas Stephens
+# My Gallery
+# A few of my favorite images
+# About Nicholas stephens
+## please check out my photography
+### brecon wales
+
+---
+
+## list
+* A link to home page
+* A link to gallery page
+* A link to information page
+
+## link and images
+[a link to gallerys](gallery.html)
+[a link to information](informaiton.html)
+
+![background image]("../images/website images/background\ images.jpg")
+![three bars icon]("fa-solid fa-bars")
+---
+icon logo
+![alt text](assets/favicon/favicon.ico)
