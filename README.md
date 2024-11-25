@@ -72,6 +72,52 @@ This is my information page this is not a form page but that of a small bit abou
 
 ![screenshot](documents/information.png)
 
+---
+
+### Features for the future
+
+- Members Section
+  - Users will be able to click on the images to make them bigger with image discription.
+
+- Buying
+  - Users will be able to purchase images.
+
+  - Users will be abele to sign and purchase group or one to one course.
+ 
+## Tools & Technologies used
+
+ - HTML 
+    - Code_insitute runnging project
+    - YouTube
+ - CSS 
+    - code_insitute
+ - Git 
+    - (git add, git commit, git push)
+ - GitHub Pages
+    - used to delopy site
+ - Markdown Builder
+    - Tim Nelson's markdown files
+ - Goolge Fonts
+    - used for the site text
+ - https://websitemockupgenerator.com/ 
+    - used to show images on different screens
+
+---
+
+    ## Acknowledgments 
+
+ - I would like to thank Code insitute for the course that i could get the knowledge to do this prodject.
+
+ - I would like to thank the other students on slack that have helped the errors and information along the way such as:
+    - Steve Powell_4p
+    - Shaun_W_4p
+    - Kris
+    - CJ_Perkins_4p
+    - Ax de klerk_4p
+
+ - I would like to thank my mentor Spencer form Code Institute
+ - I would like to thank my family for testing out the site and giving me feed back, and for my wife for helping me with spelling.
+
 
 
 
