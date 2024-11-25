@@ -113,7 +113,6 @@ This is my information page this is not a form page but that of a small bit abou
     - Shaun_W_4p
     - Kris
     - CJ_Perkins_4p
-    - Ax de klerk_4p
 
  - I would like to thank my mentor Spencer form Code Institute
  - I would like to thank my family for testing out the site and giving me feed back, and for my wife for helping me with spelling.
