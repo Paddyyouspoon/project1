@@ -152,21 +152,7 @@ main {
     flex: 1 0 auto;
     margin-top: 47px;
 }
-tr {
-    height: 150px;
-}
-th {
-    border: 1px solid black;
-    min-width: 70px;
-    text-align: left;
-}
-td {
-    border: 1px solid black;
-}
-.table-header {
-    height: 40px;
-    text-align: center;
-}
+
 .wide-top {
     width: 300px;
 }
@@ -195,6 +181,14 @@ td {
 
 #photos {
     line-height: 0;
+}
+img {
+    transition:transform 0.25s ease;
+}
+
+img:hover {
+    -webkit-transform:scale(1.5); /* or some other value */
+    transform:scale(1.5);
 }
 #form {
     color:#020000;
