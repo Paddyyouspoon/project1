@@ -25,11 +25,14 @@ This is my Wire frame look for the site I used this to help me plan how my wesit
 
 I have changed the names at the top of the site to a logo image as I think it made the sight better than havin the name of every page at the top with it again underneath as well as in the menu.
 
+  - colours used black `#000000` and white `#ffffff`
+
 ![screenshot](assets/images/website%20images/logo/High-Resolution-Logo-White-on-Black-Background.png)
 
 ### Colour Scheme
 This site utillies the basic colour for the text and the background,
 color chart used.
+
 
 - `#3a3a3a`  used for secondary text and shadow boxing.
 - `#252525`  used for  h1 h2 h3 and logo.
@@ -124,6 +127,13 @@ This is my information page this is not a form page but that of a small bit abou
 
 ---
 
+## Updated Images of Site
+
+   ![screenshot](documents/update%20site%20screenshot.png)
+
+   ![screenshot](documents/updated%20screens.png)
+
+---
     ## Acknowledgments 
 
  - I would like to thank Code insitute for the course that i could get the knowledge to do this prodject.

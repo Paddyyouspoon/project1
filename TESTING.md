@@ -49,3 +49,6 @@ I had several isuses
 
 2. Index page was not getting any information from the style sheet, bug fixed with help from CJ_Perkins, i had put stylessheet instead of stylesheet.
 
+3. Naw layout at the to as the name logo was clipping the three bars now with the image logo this has stopped.
+
+  ![screenshot](documents/new%20layout%20at%20top.png)
