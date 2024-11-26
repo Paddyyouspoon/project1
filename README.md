@@ -21,7 +21,11 @@ This is my Wire frame look for the site I used this to help me plan how my wesit
 
   ![screenshot](documents/wireframe%20ipad.png) 
 
- 
+ ### logo 
+
+I have changed the names at the top of the site to a logo image as I think it made the sight better than havin the name of every page at the top with it again underneath as well as in the menu.
+
+![screenshot](assets/images/website%20images/logo/High-Resolution-Logo-White-on-Black-Background.png)
 
 ### Colour Scheme
 This site utillies the basic colour for the text and the background,
@@ -116,12 +120,14 @@ This is my information page this is not a form page but that of a small bit abou
     - used for the site text
  - https://websitemockupgenerator.com/ 
     - used to show images on different screens
+ - Dashboard logos (https://logodesign.ai/dashboard/logo)
 
 ---
 
     ## Acknowledgments 
 
  - I would like to thank Code insitute for the course that i could get the knowledge to do this prodject.
+
 
  - I would like to thank the other students on slack that have helped the errors and information along the way such as:
     - Steve Powell_4p
