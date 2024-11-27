@@ -19,7 +19,7 @@ body {
 }
 
 h1, h2 ,h3 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Edu AU VIC WA NT Pre', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
@@ -103,6 +103,10 @@ article > p {
     margin-left: 60px;
     margin-top: 0.5px;
 }
+article > ul {
+    margin-top: 10px;
+    margin-left: 150px;
+}
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
@@ -182,18 +186,20 @@ main {
 #photos {
     line-height: 0;
 }
+/*images hover*/
 img {
     transition:transform 0.25s ease;
 }
 
 img:hover {
-    -webkit-transform:scale(1.5); /* or some other value */
+    -webkit-transform:scale(1.5);
     transform:scale(1.5);
 }
 #form {
     color:#020000;
     text-align: center;
 }
+
 /* Footer */
 footer {
         padding: 1em;

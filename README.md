@@ -124,15 +124,19 @@ This is my information page this is not a form page but that of a small bit abou
  - https://websitemockupgenerator.com/ 
     - used to show images on different screens
  - Dashboard logos (https://logodesign.ai/dashboard/logo)
+ - w3chool.com
 
 ---
 
-## Updated Images of Site
+## Updated Site
 
    ![screenshot](documents/update%20site%20screenshot.png)
 
    ![screenshot](documents/updated%20screens.png)
 
+ I have added code to the site in the style sheet that alows the images to incress in size when the user hovers over the images.
+
+   ![screenshot](documents/image%20hover%20screenshot.png)
 ---
     ## Acknowledgments 
 
@@ -144,6 +148,7 @@ This is my information page this is not a form page but that of a small bit abou
     - Shaun_W_4p
     - Kris
     - CJ_Perkins_4p
+    - JSfiddle Demo (https://stackoverflow.com/questions/25036597/how-to-enlarge-an-image-on-hover-or-click)
 
  - I would like to thank my mentor Spencer form Code Institute
  - I would like to thank my family for testing out the site and giving me feed back, and for my wife for helping me with spelling.
