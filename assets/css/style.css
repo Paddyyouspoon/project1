@@ -69,13 +69,6 @@ header a {
     position: relative;
 }
 
-#logo {
-    font-family: 'Edu AU VIC WA NT Pre', cursive;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #252525;
-    font-weight: 400;
-}
 #logo > img {
     height: 100px;
     width: 100px;
