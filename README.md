@@ -1,7 +1,7 @@
 # NICHOLAS STEPHENS PHOTOGRAPHY
 The photography website is a site for people to veiw photos ia hve taken. This site is amied towards other photographers and non photographers alike to be able to look at the images and in future update alow purtches of images but for now they can subscribe to the newsletter.
 
-![screenshot](documents/mock-up-image.png)
+![screenshot](documents/mockupimage.png)
 
 ## UK
 This site is designed no to be over complicated with simplisity in mind, this site is done to keep the user intrested with clear accessible way to navigate to the different pages. The navigation bar has the sites name with the three navigation lines that sticks to the top of the page while the user scrolls down the page alowing it to be accsessed at any point as the user clicks on the different pages a black line will stay under the name of the page they are on so that the usere wwent away from the device being used thay will know whe theyt get back. There are three pages to this site the home page (index.html), gallery page (gallert.html) that has my favourite images, and the information page (information.html). These pages have no pop up adds that could disstract the user away from the pages.
@@ -14,12 +14,12 @@ This is my Wire frame look for the site I used this to help me plan how my wesit
 
   - Mobile 
   
-  ![screenshot](documents/mobile%20wireframe.png)
+  ![screenshot](documents/mobilewireframe.png)
 
 
  - Tablet
 
-  ![screenshot](documents/wireframe%20ipad.png) 
+  ![screenshot](documents/wireframeipad.png) 
 
  ### logo 
 
@@ -76,7 +76,7 @@ The bars icon to click on the briongs out the dropdown menu.
 
 My home page is what the user will first see when entering the site from either phone tablet or pc, The hero image on the homepage is a nice simpile image from my own collection in the town where i live. this i has a simple but clear message to explore the site and to go to the gallerys page. There is input boxes at the bottom of the screen just before the footer alowing users to sign up to the newsletter.
 
-![screenshot](documents/moble%20phone.png)
+![screenshot](documents/moblephone.png)
 
 - Gallerys page
 
@@ -130,13 +130,13 @@ This is my information page this is not a form page but that of a small bit abou
 
 ## Updated Site
 
-   ![screenshot](documents/update%20site%20screenshot.png)
+   ![screenshot](documents/updatesitescreenshot.png)
 
-   ![screenshot](documents/updated%20screens.png)
+   ![screenshot](documents/updatedscreens.png)
 
  I have added code to the site in the style sheet that alows the images to incress in size when the user hovers over the images.
 
-   ![screenshot](documents/image%20hover%20screenshot.png)
+   ![screenshot](documents/imagehoverscreenshot.png)
 ---
     ## Acknowledgments 
 

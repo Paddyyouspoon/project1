@@ -23,15 +23,13 @@ h1, h2 ,h3 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
+    min-width: 1rem;
 
 }
 .bold {
     text-align: center;
     font-weight: bold;
     margin-top: 20px;
-}
-header > h1 {
-    text-align: center;
 }
 
 .fixed-top {
@@ -179,15 +177,7 @@ main {
 #photos {
     line-height: 0;
 }
-/*images hover*/
-img {
-    transition:transform 0.25s ease;
-}
 
-img:hover {
-    -webkit-transform:scale(1.5);
-    transform:scale(1.5);
-}
 #form {
     color:#020000;
     text-align: center;
