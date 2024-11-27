@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="discription" content="Photography, photos, cameras">
+    <meta name="keywords" content="Photography, photos, cameras">
+    <meta name="description" content="Photography website of Nick Stephens, a nature and landscape photographer.">
     <title> Photography Project 1 </title>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
@@ -12,16 +13,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
      <!--link to stylesheet-->
    <link rel="stylesheet" href="assets/css/style.css">
-   <style type="text/css">
-        h1 {text-align: center;
-        }
-        #browse{
-            margin-top: 30px;
-        }
-        #nav-toggle {
-            margin-right: 2cm;
-        }
-   </style>
+   
 </head>
 <body>
     <!--page header-->
@@ -32,11 +24,13 @@
     </a>
     <!--button for drop box = main menu button-->
     <input type="checkbox" id="nav-toggle" name="nav-toggle">
-    <label for="nav-toggle" class="nav-toggle-label"> 
+
     <div class="toggle">
-        <i class="fa-solid fa-bars"></i>
+        <label for="nav-toggle" class="nav-toggle-label">
+            <i class="fa-solid fa-bars"></i>
+        </label>
     </div>
-    </label>
+    
     
     <nav>
         <!--links to the other pages-->
@@ -58,10 +52,10 @@
     </section>
     <section>
     <h3 id="form">To register for newsletters please fill in the form below:</h3>
-    <form id="form"><!--text box for name and email-->
-        <input type="text" name="first name" placeholder="First Name">
-        <input type="text" name="last name" placeholder="Last Name">
-        <input type="email" name="email" placeholder="Email Address">
+    <form id="contact"><!--text box for name and email-->
+        <input type="text" name="first name" placeholder="First Name" required>
+        <input type="text" name="last name" placeholder="Last Name" required>
+        <input type="email" name="email" placeholder="Email Address" required>
         <input type="submit" value=" Register">
         <input type="reset" value="Reset">
     </form>
