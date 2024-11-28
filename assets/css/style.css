@@ -95,6 +95,7 @@ article > p {
 article > ul {
     margin-top: 10px;
     margin-left: 150px;
+    line-height: 45px;
 }
 .active {
     border-bottom: 1px solid #3a3a3a;
