@@ -87,12 +87,12 @@ div h1 {
 #menu > li {
     margin-bottom: 1em;
 }
-article > p {
+h4 > p {
     margin-right: 60px;
     margin-left: 60px;
     margin-top: 0.5px;
 }
-article > ul {
+h4 > ul {
     margin-top: 10px;
     margin-left: 150px;
     line-height: 45px;
