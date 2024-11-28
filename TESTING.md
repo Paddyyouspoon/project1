@@ -73,6 +73,6 @@ I had several isuses
 
   | Page | w3 | Any Errors |
   | --- | --- | --- |
-  | Home Page | [w3v](https://validator.w3.org/nu/?showsource=yes&useragent=Validator.nu%2FLV+https%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fpaddyyouspoon.github.io%2Fproject1%2F) | no errors |
-  | Gallerys Page | [w3v](https://validator.w3.org/nu/?showsource=yes&checkerrorpages=yes&useragent=Validator.nu%2FLV+https%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fpaddyyouspoon.github.io%2Fproject1%2Fgallery.html) | no errors
-  | Information page | [w3v](https://validator.w3.org/nu/?showsource=yes&checkerrorpages=yes&useragent=Validator.nu%2FLV+https%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fpaddyyouspoon.github.io%2Fproject1%2Finformation.html) | no errors
+  | Home Page | [w3v](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fpaddyyouspoon.github.io%2Fproject1%2Findex.html) | no errors |
+  | Gallerys Page | [w3v](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fpaddyyouspoon.github.io%2Fproject1%2Fgallery.html) | no errors
+  | Information page | [w3v](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fpaddyyouspoon.github.io%2Fproject1%2Finformaiton.html) | no errorshtml
