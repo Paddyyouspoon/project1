@@ -51,4 +51,27 @@ I had several isuses
 
 3. Naw layout at the to as the name logo was clipping the three bars now with the image logo this has stopped.
 
-  ![screenshot](documents/new%20layout%20at%20top.png)
+  ![screenshot](documents/newlayoutattop.png)
+
+  ---
+
+  ### light house re-testing
+
+  | page | Size | screenshots |
+  | --- | --- | --- |
+  | Home page | Mobile | ![screenshot](documents/indexPageLighthouse.png) |
+  | Home Page | Desktop | ![screenshot](documents/indexPageLighthousedesktop.png) |
+  | Gallerys Page | Mobele | ![screenshots](documents/galleryLighthouseMoble.png) |
+  | Gallerys Page | Desktop | ![screenshot](documents/galleryLighthouseDesktop.png) |
+  | Information Page | Mobile | ![screenshots](documents/informationLighthouseMobile.png) |
+  | Information Page | Desktop | ![screenshot](documents/informationLighthouseDesktop.png) |
+
+
+  ### Code Validation Re-testing 
+
+  I had some errors in my original code
+
+  | Page | w3 | Any Errors |
+  | --- | --- | --- |
+  | Home Page | [w3v](https://validator.w3.org/nu/?showsource=yes&useragent=Validator.nu%2FLV+https%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fpaddyyouspoon.github.io%2Fproject1%2F) | no errord |
+  | Gallerys Page |
