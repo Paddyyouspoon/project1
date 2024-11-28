@@ -23,6 +23,7 @@ h1, h2 ,h3 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
+    font-size: min(1rem);
 }
 .bold {
     text-align: center;
