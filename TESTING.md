@@ -33,9 +33,9 @@ I have use Lighthouse tool recomended my Code Institute to check for any issuse 
 | Home Page | Mobile | ![screenshot](documents/lighthousephonefold5.png) | Large image contenet (LCP)  |
 | Home Page | Desktop | ![screenshot](documents/lighthousedestop.png) | Large image content (LCP)
 | Gallerys Page | Mobile | ![screenshot](documents/lighthouseGallerysmoblie.png) | Large image files (LCP) |
-| Gallerys Page | Desktop | ![screenshot](documents/LighthouseGallerysDesktop.png) | Large image files (LCP) |
-| Information Page | Mobile | ![screenshot](documents/Lighthouseinfomobile.png) | Large image files (LCP and SEO)
-| Information Page | Desktop | ![screenshot](documents/Lighthouseinfodesktop.png) | (SEO) no meta sescription |
+| Gallerys Page | Desktop | ![screenshot](documents/lighthouseGallerysDesktop.png) | Large image files (LCP) |
+| Information Page | Mobile | ![screenshot](documents/lighthouseinfomobile.png) | Large image files (LCP and SEO)
+| Information Page | Desktop | ![screenshot](documents/lighthouseinfodesktop.png) | (SEO) no meta sescription |
 
 ---
 

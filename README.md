@@ -27,7 +27,7 @@ I have changed the names at the top of the site to a logo image as I think it ma
 
   - colours used black `#000000` and white `#ffffff`
 
-![screenshot](assets/images/website%20images/logo/High-Resolution-Logo-White-on-Black-Background.png)
+![screenshot](assets/images/logoimage.png)
 
 ### Colour Scheme
 This site utillies the basic colour for the text and the background,
@@ -69,7 +69,7 @@ The bars icon to click on the briongs out the dropdown menu.
  
   ---
 
-### Fratures 
+### Features 
 
 #### Page Features
 - Home page
@@ -153,6 +153,10 @@ This is my information page this is not a form page but that of a small bit abou
  - I would like to thank my mentor Spencer form Code Institute
  - I would like to thank my family for testing out the site and giving me feed back, and for my wife for helping me with spelling.
 
+## Link to TEST.md
 
+- [TESTING.md](TESTING.md)
 
+### Deploment 
 
+Using GitHub to depoly my project and have to make a tap so that I can make a releases fot the project.
